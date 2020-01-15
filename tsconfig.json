@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "es2017",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "jsx": "react",
+    "types": [
+      "react",
+      "node"
+    ]
+  }
+}

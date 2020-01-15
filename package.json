@@ -1,0 +1,32 @@
+{
+  "name": "sb-bug",
+  "version": "1.0.0",
+  "description": "Storybook knobs bug",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcz/sb-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcz/sb-bug/issues"
+  },
+  "homepage": "https://github.com/hcz/sb-bug#readme",
+  "dependencies": {
+    "@storybook/addon-knobs": "^5.3.3",
+    "@storybook/react": "^5.3.3",
+    "@types/node": "^13.1.7",
+    "@types/react": "^16.9.17",
+    "awesome-typescript-loader": "^5.2.1",
+    "babel-loader": "^8.0.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "^3.7.4"
+  }
+}
